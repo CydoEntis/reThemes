@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.67.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CydoEntis/reThemes"
+  },
   "categories": [
     "Themes"
   ],
@@ -69,7 +73,8 @@
     "Eclipse",
     "eclipse",
     "visual assist",
-    "Visual Assist"
+    "Visual Assist",
+    "Platinum"
   ],
   "__metadata": {
     "id": "88ba255a-f200-4aed-ba76-625b4149857c",
@@ -81,10 +86,6 @@
     "isPreReleaseVersion": false,
     "preRelease": false,
     "installedTimestamp": 1678760763644
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CydoEntis/reThemes"
   },
   "author": {
     "name": "Cydo Entis"

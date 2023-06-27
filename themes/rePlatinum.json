@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "rePlatinum",
+    "name": "re:Platinum",
     "colors": {
         "contrastBorder": "#00000000",
         "activityBar.background": "#0e0e0e",
