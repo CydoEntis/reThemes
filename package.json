@@ -1,0 +1,92 @@
+{
+  "name": "re-theme",
+  "displayName": "re:Theme",
+  "description": "A collection of reimagined themes that I like, but felt are not completed. re:Themes is my way of bringing a form of completion to those themes while also adding my own flare to them.",
+  "version": "2.0.0",
+  "publisher": "Cydo",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "re:Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reDark-color-theme.json"
+      },
+      {
+        "label": "re:Dark Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reDark_Alt-color-theme.json"
+      },
+      {
+        "label": "re:Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reGruvbox-color-theme.json"
+      },
+      {
+        "label": "re:Visual Assist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reVisual_Assist-color-theme.json"
+      },
+      {
+        "label": "re:Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reEclipse-color-theme.json"
+      },
+      {
+        "label": "re:Eclipse Old School",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reEclipse-Old-School-color-theme.json"
+      },
+      {
+        "label": "re:Umbra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reUmbra-color-theme.json"
+      },
+      {
+        "label": "re:Platinum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rePlatinum.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "re:Dark",
+    "Cydo Theme",
+    "Dark",
+    "Dark++",
+    "re",
+    "re:",
+    "redark",
+    "REDARK",
+    "Gruv Box",
+    "gruvbox",
+    "Eclipse",
+    "eclipse",
+    "visual assist",
+    "Visual Assist"
+  ],
+  "__metadata": {
+    "id": "88ba255a-f200-4aed-ba76-625b4149857c",
+    "publisherId": "c9d2c0e7-7fa2-4a7b-bd35-16db07b3dbf0",
+    "publisherDisplayName": "Cydo",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "preRelease": false,
+    "installedTimestamp": 1678760763644
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CydoEntis/reThemes"
+  },
+  "author": {
+    "name": "Cydo Entis"
+  }
+}
